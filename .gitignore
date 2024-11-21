@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+__pycache__
+data/*
+!data/__init__.py
+!data/cifar.py
+!data/utils.py
+
